@@ -6,3 +6,4 @@ Integrantes:
 - Leonardo de Oliveira Carvalho (coordenador)
 - Lucas Melo de Carvalho
 - Gabriel Moura dos Santos Barreto
+- Ricardo Menezes Guerra Pinto Bandeira
